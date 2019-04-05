@@ -1,0 +1,14 @@
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\kenny\Documents\CShrap\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TouranmentDashbord.resources
