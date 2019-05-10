@@ -8,6 +8,10 @@ namespace TrackerLibrary.Models
 {
     public class TournamentModel
     {
+        /// <summary>
+        /// the unquie identifer
+        /// </summary>
+        public int Id { get; set; }
 
         public string TournamentName { get; set; }
 
